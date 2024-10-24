@@ -21,6 +21,8 @@
     "swr": "^2.2.5"
   },
   "devDependencies": {
+    "@types/node": "22.7.5",
+    "@types/react": "18.3.11",
     "eslint": "^8",
     "eslint-config-next": "14.2.13"
   }
